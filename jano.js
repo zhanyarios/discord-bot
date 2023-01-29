@@ -22,7 +22,7 @@ const fs = require("fs");
 const Discord = require ("discord.js")
 const moment = require ("moment")
 const jano = new Discord.Client();
-const prefix = "/";
+const prefix = ".";
 
 jano.login("NzY1Mzk2ODQ3Mzc5NDgwNjYw.GyvQiE._f0WAhGgKjV7lBDsxV3AQX64VxqsOdwWGh6-t8"); 
 
